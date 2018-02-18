@@ -2,5 +2,6 @@ name: Rasmus Velling
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 collections:
- - resources
- 
+  resources:
+    output: true
+    permalink: /:collection/:name
