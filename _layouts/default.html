@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" type="text/css" href="/css/markdown.css">
+			<script src="https://use.fontawesome.com/1142e81d12.js"></script>
+			{% include analytics.html %}
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+
+			{{ content }}
+
+			</div><!-- /.container -->
+			<footer>
+    		<ul>
+					<li><a class="icon" target="_blank" href="https://www.facebook.com/rasmus.n.velling" title="facebook"><i class="fa fa-facebook"></i></a></li>
+          <li><a class="icon" target="_blank" href="https://www.linkedin.com/in/rasmusvelling" title="linkedin"><i class="fa fa-linkedin"></i></a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
