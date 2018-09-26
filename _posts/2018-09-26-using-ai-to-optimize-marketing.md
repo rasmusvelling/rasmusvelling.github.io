@@ -1,6 +1,6 @@
 Together with a couple of colleague's I wrote a blog post for the [KAYAK Tech](https://medium.com/kayak-tech) blog at Medium. It's about using AI to optimize marketing performance cross marketing channels.
 
-The blog post is be found [here](https://medium.com/kayak-tech/using-ai-to-optimize-marketing-across-multiple-platforms-6602e3765b2f), a git repo containing the underlying .Rmd file can be found at [my github](https://github.com/rasmusvelling/mboost_marketing)
+The blog post can be found [at medium.com](https://medium.com/kayak-tech/using-ai-to-optimize-marketing-across-multiple-platforms-6602e3765b2f), a git repo containing the underlying .Rmd file can be found at [my github](https://github.com/rasmusvelling/mboost_marketing)
 
 In short we talk about an R-package called [mboost](https://CRAN.R-project.org/package=mboost) and how it allows for estimation of non-linear effects of inputs.
 
