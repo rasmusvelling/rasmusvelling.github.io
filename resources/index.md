@@ -10,6 +10,7 @@ MOOCs, blogs and other data science resources I've digested and liked.
 ### Automatic differentiation
 
 - [You Should Be Using Automatic Differntiation](https://www.youtube.com/watch?v=sq2gPzlrM0g) a great video explaining what uto-diff is and how it fits into the Machine Learning product cycle.
+- [Autgrad](https://github.com/HIPS/autograd/) an implementation of automatic differentiation in Python.
 
 
 ## Infrastructure
