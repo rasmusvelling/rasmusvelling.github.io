@@ -26,3 +26,8 @@ MOOCs, blogs and other data science resources I've digested and liked.
 
 ### Courses
 - [DeepLearning.ai specialization](https://www.coursera.org/specializations/deep-learning), Coursera specialization in Deep Learning and neural networks.
+
+## Topics
+
+### Shapley Value
+- [The Shapley Value](https://www.youtube.com/watch?v=qcLZMYPdpH4)
